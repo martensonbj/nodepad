@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwperry/nodepad"
+    "url": "git+https://github.com/martensonbj/nodepad"
   },
   "keywords": [
     "electron",
@@ -18,9 +18,9 @@
   "author": "Brenna Martenson & Joe Perry",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jwperry/nodepad/issues"
+    "url": "https://github.com/martensonbj/nodepad/issues"
   },
-  "homepage": "https://github.com/jwperry/nodepad/blob/master/README.md",
+  "homepage": "https://github.com/martensonbj/nodepad/blob/master/README.md",
   "devDependencies": {
     "babel-eslint": "^6.0.2",
     "electron-packager": "^6.0.2",
